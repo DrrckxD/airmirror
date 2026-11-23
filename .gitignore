@@ -1,0 +1,12 @@
+# hasil build / biner (dibuat ulang dengan bundle_uxplay.sh dan PyInstaller)
+AirMirror.exe
+uxplay/
+build/
+dist/
+*.spec
+__pycache__/
+*.pyc
+
+# PlatformIO
+esp32-mouse/.pio/
+esp32-mouse/.vscode/
